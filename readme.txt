@@ -9,3 +9,4 @@ Git is free software distributed under the GPL .
 Git has amutable index called stage .
 Git tracks changes .
 Creation a new breanch is quick ; 
+Creating a new branch is quick & simple ;
