@@ -16,4 +16,12 @@ Creation a new branch is quick AND simple
 >>>>>>> dev
 Creat a new branch is quick ande simple ;
 Qingtengzhilian 
+<<<<<<< HEAD
 Git is afree software
+=======
+<<<<<<< Updated upstream
+Stash niubi
+=======
+git stash function
+>>>>>>> Stashed changes
+>>>>>>> dev
