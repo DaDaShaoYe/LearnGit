@@ -16,3 +16,4 @@ Creation a new branch is quick AND simple
 >>>>>>> dev
 Creat a new branch is quick ande simple ;
 Qingtengzhilian 
+Stash niubi
